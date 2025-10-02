@@ -1,0 +1,8 @@
+# configs/config.yaml
+bot:
+  token: ""
+  debug: true
+  webhook:
+    url: "https://yourdomain.com/webhook"
+    max_connections: 100
+    allowed_updates: ["message", "callback_query"]
