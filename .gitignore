@@ -1,0 +1,7 @@
+
+*.yaml
+*.log
+*.vscode
+*.exe
+go.sum
+Desktop.ini
